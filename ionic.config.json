@@ -1,0 +1,7 @@
+{
+  "name": "awfasdf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
